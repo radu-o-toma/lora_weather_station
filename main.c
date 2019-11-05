@@ -50,7 +50,7 @@ int main(void)
 		
 
         //LOW_POWER_enterLowPower();
-		for (uint16_t counter = 0; counter < 10; counter++)
+		for (uint16_t counter = 0; counter < 60; counter++)
 			_delay_ms(1000);
 			
 		
